@@ -1,0 +1,64 @@
+canonical_identifier: bkk:krp/KR6j0036/v1
+canonical_location: https://kanripo.org/bkk/KR6j0036/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 略述金剛頂瑜伽分別聖位修證法門
+  identifiers:
+    alt_id:
+    - T18n0870
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T18/T18n0870.xml
+    old_id: T18n0870
+  edition:
+    short: bkk
+editions:
+- short: 明
+  label: 明
+  source_xml_id: wit1
+- short: 乙
+  label: 乙
+  source_xml_id: wit2
+- short: 丙
+  label: 丙
+  source_xml_id: wit3
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0036_000.yaml, hash: 'sha256:827deba93f3d48d51a880e72085c022b6db2c36290bfd9093a5921fc4e4f5b01'}
+  - {seq: 1, filename: KR6j0036_001.yaml, hash: 'sha256:d80501c1580f72bd289d22ff1f2e28f49ae7c9eafe07e2419ee6e2f4a23c7f49'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0036_000.markers.yaml, hash: 'sha256:9eff6161f297e0d708ae627d3b2a624ea08a8c7e544243394717f298e0017764'}
+  - {seq: 1, role: markers, filename: assets/KR6j0036_001.markers.yaml, hash: 'sha256:daf13f03aadb20c1ee5dcd96e1439a3232163cbce8c7f32ec81a25a387ea048f'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6j0036_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0036_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 4868
+  label: '略述金剛頂瑜伽分別聖位修證
+
+    法門'
+  type: juan
+  level: 1
+hash: sha256:0e09a733b4df80d0c013af52cbfa548b750857a9d71fc0898be01e0462696f8c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

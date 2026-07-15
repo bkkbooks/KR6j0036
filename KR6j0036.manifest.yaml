@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0036/v1
 canonical_location: https://kanripo.org/bkk/KR6j0036/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 略述金剛頂瑜伽分別聖位修證法門
   identifiers:
@@ -30,11 +30,11 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6j0036_000.yaml, hash: 'sha256:3fe6aff3abce11457dc43c40ed63747f15eb06bc9b96432231e6b8416ed801df'}
-  - {seq: 1, filename: KR6j0036_001.yaml, hash: 'sha256:e489b4f21c651799532b2be5d5e6adcb33e7d21b517985888d1be7966abbad14'}
+  - {seq: 0, filename: KR6j0036_000.yaml, hash: 'sha256:c3cb3879522f9c02cdc084db438651cf824b3e95878234c6ffb9fc41df917c93'}
+  - {seq: 1, filename: KR6j0036_001.yaml, hash: 'sha256:611f451a490c4d62ba38eb69fb74b69685f96be2f6dfc125e43545b0ba9a8424'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0036_000.markers.yaml, hash: 'sha256:f55ba5b4017ac58a385c986d93216ea01be79883d96462c5051e5b2193e1105b'}
-  - {seq: 1, role: markers, filename: assets/KR6j0036_001.markers.yaml, hash: 'sha256:4d8cad1e068736ddcf1dde6f78ab3100bbcb72c8d2ee6a9611b957e017b3530a'}
+  - {seq: 0, role: markers, filename: assets/KR6j0036_000.markers.yaml, hash: 'sha256:ccbcab11465161ac530b4b6a30cbd1b708d6de852651e28013220f9b90a14c21'}
+  - {seq: 1, role: markers, filename: assets/KR6j0036_001.markers.yaml, hash: 'sha256:bcca56cd667a9a2a84b0b15f3940f2693518d632ca536c7ed273d184b12715cb'}
 table_of_contents:
 - ref:
     seq: 0
@@ -58,4 +58,7 @@ table_of_contents:
     法門'
   type: juan
   level: 1
-hash: sha256:d2a8557f923fce01e74c0d41dccfce407cdcfeb22117ecd6cf657c942c8ba2ef
+hash: sha256:9efec2ac141a438e00327e32ab5ed66281604584a37a23a33f7b2908ce223f2b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

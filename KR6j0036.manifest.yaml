@@ -30,17 +30,17 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6j0036_000.yaml, hash: 'sha256:c3cb3879522f9c02cdc084db438651cf824b3e95878234c6ffb9fc41df917c93'}
+  - {seq: 0, filename: KR6j0036_000.yaml, hash: 'sha256:a05bff168cc5c476688e14fc52d088fe55924b4b0a62986a7c17e474161b5855'}
   - {seq: 1, filename: KR6j0036_001.yaml, hash: 'sha256:611f451a490c4d62ba38eb69fb74b69685f96be2f6dfc125e43545b0ba9a8424'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0036_000.markers.yaml, hash: 'sha256:ccbcab11465161ac530b4b6a30cbd1b708d6de852651e28013220f9b90a14c21'}
+  - {seq: 0, role: markers, filename: assets/KR6j0036_000.markers.yaml, hash: 'sha256:a058cb50bd88c0b77eeddf65d098807e5dd023b046e6fecd5ec034b80f59e966'}
   - {seq: 1, role: markers, filename: assets/KR6j0036_001.markers.yaml, hash: 'sha256:bcca56cd667a9a2a84b0b15f3940f2693518d632ca536c7ed273d184b12715cb'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6j0036_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -58,7 +58,7 @@ table_of_contents:
     法門'
   type: juan
   level: 1
-hash: sha256:9efec2ac141a438e00327e32ab5ed66281604584a37a23a33f7b2908ce223f2b
+hash: sha256:d75935c4dae2de24277fa9abe0248a41154735875612d9721af3018c0deadded
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
